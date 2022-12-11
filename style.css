@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Zen+Dots&display=swap');
 
+/* Change the fonts here! */
+
 h1 {
 	font-family: "Zen Dots";
 	font-size: 36px;
+}
+
+h2 {
+	font-family: "Zen Dots";
 }
 
 p, a, li {
